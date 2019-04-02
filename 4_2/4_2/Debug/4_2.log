@@ -1,0 +1,15 @@
+﻿生成启动时间为 2019/4/2 21:48:39。
+     1>项目“D:\vs\c++程序编码\4_2\4_2\4_2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Main.c
+         Main.c
+     1>d:\vs\c++程序编码\4_2\4_2\seqlistd.h(57): warning C4033: “CheckCapacity”必须返回值
+     1>d:\vs\c++程序编码\4_2\4_2\seqlistd.h(77): warning C4715: “CheckCapacity”: 不是所有的控件路径都返回值
+       Link:
+         D:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\vs\c++程序编码\4_2\Debug\4_2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\vs\c++程序编码\4_2\Debug\4_2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\vs\c++程序编码\4_2\Debug\4_2.lib" /MACHINE:X86 Debug\Main.obj
+         4_2.vcxproj -> D:\vs\c++程序编码\4_2\Debug\4_2.exe
+     1>已完成生成项目“D:\vs\c++程序编码\4_2\4_2\4_2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.15
