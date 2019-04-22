@@ -1,0 +1,78 @@
+﻿生成启动时间为 2019/4/22 11:46:52。
+     1>项目“D:\vs\c++程序编码\4_22\4_22\4_22.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(8): error C2065: “cout”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(9): error C2065: “cout”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(9): error C2065: “endl”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(39): error C2065: “cout”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(40): error C2065: “cout”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(40): error C2065: “endl”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(46): error C2065: “cout”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(47): error C2065: “cout”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(47): error C2065: “endl”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(52): error C2065: “deque”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(52): error C2062: 意外的类型“int”
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(52): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(52): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(54): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(54): error C2228: “.push_back”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(55): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(55): error C2228: “.push_front”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(56): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(57): error C2065: “cout”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(57): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(57): error C2228: “.size”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(57): error C2065: “endl”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(58): error C2065: “cout”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(58): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(58): error C2228: “.front”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(58): error C2065: “endl”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(59): error C2065: “cout”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(59): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(59): error C2228: “.back”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(59): error C2065: “endl”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(66): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(66): error C2228: “.emplace_back”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(67): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(67): error C2228: “.emplace_front”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(68): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(70): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(70): error C2228: “.insert”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(70): error C2228: “.begin”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(71): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(73): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(73): error C2228: “.pop_front”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(74): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(74): error C2228: “.pop_back”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(75): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(75): error C2228: “.erase”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(75): error C2228: “.begin”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(76): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(78): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(78): error C2228: “.clear”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(79): error C2065: “cout”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(79): error C2065: “d1”: 未声明的标识符
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(79): error C2228: “.size”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\vs\c++程序编码\4_22\4_22\test.cpp(79): error C2065: “endl”: 未声明的标识符
+     1>已完成生成项目“D:\vs\c++程序编码\4_22\4_22\4_22.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:04.58
