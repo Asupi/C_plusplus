@@ -1,0 +1,11 @@
+﻿生成启动时间为 2019/4/27 20:07:28。
+     1>项目“D:\vs\c++程序编码\4_27\4_27\4_27.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>d:\vs\c++程序编码\4_27\4_27\test.cpp(32): error C3867: “Solution::Find”:  函数调用缺少参数列表；请使用“&Solution::Find”创建指向成员的指针
+     1>已完成生成项目“D:\vs\c++程序编码\4_27\4_27\4_27.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.77
