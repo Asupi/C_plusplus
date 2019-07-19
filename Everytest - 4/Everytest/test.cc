@@ -1,5 +1,4 @@
-链接：https://www.nowcoder.com/questionTerminal/286af664b17243deb745f69138f8a800
-来源：牛客网
+
 
 #include<iostream>
 #include<string>
